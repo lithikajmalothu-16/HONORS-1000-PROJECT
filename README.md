@@ -92,3 +92,9 @@ Honors Seminar Capstone Project — November 2025
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/aqi-ml-honors-project.git
+   ```
+
+---
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE) © 2025 Lithika Jadav Malothu.
